@@ -4,7 +4,7 @@ Description
 --
 The Hospital Management System is a web-based application designed to streamline hospital operations. It provides distinct functionalities for doctors, patients, and administrators. The system features a Doctor's Page, a User Page, a Sign-Up Page, and a seamless appointment booking mechanism. All patient data is securely stored and managed using a MySQL database.
 
-<img src="https://drive.google.com/uc?export=view&id=1cKHW9IVPsgZaKPb7MdOcfR1-_uGM3GI3" width="400"/>
+<img src="https://drive.google.com/file/d/1cKHW9IVPsgZaKPb7MdOcfR1-_uGM3GI3/view?usp=sharing" width="400"/>
 <img src="https://drive.google.com/uc?export=view&id=16esoidoN5xq6nQ7HRK7LDXdpR2_0XcQK" width="400"/>
 <img src="https://drive.google.com/uc?export=view&id=1ZdXPp_r5PdTkxn9TPiE63UVlyuoPGHMz" width="400"/>
 <img src="https://drive.google.com/uc?export=view&id=1oN9xnxDXoTmpi6JCVw0ZYFZPNRVs0pTN" width="400"/>
